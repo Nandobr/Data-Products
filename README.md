@@ -1,4 +1,4 @@
-# Data-Products
+# Data Products Course - week 4 - peer-graded assignment
 Repo containing code and data files of the final project of Data Products course.
 
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
